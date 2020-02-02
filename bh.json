@@ -1,0 +1,20 @@
+{"success":true,"message":"","radios":
+[
+
+{"number":"1","name":"بحرين راديو 102.3","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/bh/master/radio-102.png","streamUrl":"http://185.105.4.106:1935/live/radio-102-3/playlist.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"2","name":"بحرين FM 93.3","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/bh/master/radio-102.png","streamUrl":"http://185.105.4.106:1935/live/radio-93-3/playlist.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"3","name":"الشعبية 95.0","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/bh/master/radio-102.png","streamUrl":"http://185.105.4.106:1935/live/radio-95-0/playlist.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"4","name":"راديو بحرين 96.5","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/bh/master/radio-102.png","streamUrl":"http://185.105.4.106:1935/live/radio-96-5/playlist.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"5","name":"106.1 القرآن الكريم","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/bh/master/radio-102.png","streamUrl":"http://185.105.4.106:1935/live/radio-106-1/playlist.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"6","name":"البحرين الرياضية","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/bh/master/radio-102.png","streamUrl":"http://185.105.4.106:1935/live/Bahrain%20Sports/playlist.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"7","name":"راديو بي بي سي","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/bh/master/bbc.png","streamUrl":"http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba","yourmuzeId":"0","state":"1"},
+{"number":"8","name":"راديو مونتيكارلو","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/bh/master/monicarlo.jpg","streamUrl":"http://live02.mc-doualiya.com/mc-doualiya.mp3","yourmuzeId":"0","state":"1"},
+{"number":"9","name":"راديو ساوا","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/bh/master/sawa.png","streamUrl":"","yourmuzeId":"0","state":"1"}
+
+
+],
+"country":{"id":"60","name":"bahrain","logo":"..\/..\/_upload\/_flags\/bahrain.png","radiosNbr":null,"radiosOkNbr":null,"radiosKoNbr":null}}
+
+
+
+
